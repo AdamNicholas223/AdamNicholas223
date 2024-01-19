@@ -6,4 +6,5 @@
 - [LinkedIn](https://www.linkedin.com/in/adamnicholas223/)
 - [Personal Website](https://adamnicholas223.com)
 
+## Languages 👋
 [![My Skills](https://skillicons.dev/icons?i=cpp,linux,js,html,css,php,py,androidstudio)](https://skillicons.dev)
