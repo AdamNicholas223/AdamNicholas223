@@ -5,3 +5,5 @@
 - Looking to transform ideas into efficient, user-friendly applications
 - [LinkedIn](https://www.linkedin.com/in/adamnicholas223/)
 - [Personal Website](https://adamnicholas223.com)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,linux,js,html,css,php,py,androidstudio)](https://skillicons.dev)
