@@ -1,3 +1,5 @@
+### Hi, I'm Adam Nicholas 👋
+
 - Information Systems Technician I at Clinica Sierra Vista
 - Bachelor's Degree in Computer Science: Information Systems
 - Looking to transform ideas into efficient, user-friendly applications
